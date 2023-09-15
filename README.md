@@ -1,2 +1,2 @@
 # New-code
-learning
+I am learning to code so bear with me here.
